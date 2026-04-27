@@ -1,49 +1,49 @@
 [   ] Gokyo no Waza - Group 1
-	[   ] De Ashi Harai
-	[   ] Hiza Guruma
-	[   ] Sasae Tsurikomi Ashi
-	[   ] Uki Goshi
-	[   ] O Soto Gari
-	[   ] O Goshi
-	[   ] O Uchi Gari
-	[   ] Seoi Nage
+	[   ] 01 - De Ashi Harai
+	[   ] 02 - Hiza Guruma
+	[   ] 03 - Sasae Tsurikomi Ashi
+	[   ] 04 - Uki Goshi
+	[   ] 05 - O Soto Gari
+	[   ] 06 - O Goshi
+	[   ] 07 - O Uchi Gari
+	[   ] 08 - Seoi Nage
 
 [   ] Gokyo no Waza - Group 2
-	[   ] Ko Soto Gari
-	[   ] Ko Uchi Gari
-	[   ] Koshi Guruma
-	[   ] Tsurikomi Goshi
-	[   ] Okuri Ashi Harai
-	[   ] Tai Otoshi
-	[   ] Harai Goshi
-	[   ] Uchimata
+	[   ] 09 - Ko Soto Gari
+	[   ] 10 - Ko Uchi Gari
+	[   ] 11 - Koshi Guruma
+	[   ] 12 - Tsurikomi Goshi
+	[   ] 13 - Okuri Ashi Harai
+	[   ] 14 - Tai Otoshi
+	[   ] 15 - Harai Goshi
+	[   ] 16 - Uchimata
 
 [   ] Gokyo no Waza - Group 3
-	[   ] Ko Soto Gake
-	[   ] Tsuri Goshi
-	[   ] Yoko Otoshi
-	[   ] Ashi Guruma
-	[   ] Hane Goshi
-	[   ] Harai Tsurikomi Ashi
-	[   ] Tomoe Nage
-	[   ] Kata Guruma
+	[   ] 17 - Ko Soto Gake
+	[   ] 18 - Tsuri Goshi
+	[   ] 19 - Yoko Otoshi
+	[   ] 20 - Ashi Guruma
+	[   ] 21 - Hane Goshi
+	[   ] 22 - Harai Tsurikomi Ashi
+	[   ] 23 - Tomoe Nage
+	[   ] 24 - Kata Guruma
 
 [   ] Gokyo no Waza - Group 4
-	[   ] Sumi Gaeshi
-	[   ] Tani Otoshi
-	[   ] Hane Makikomi
-	[   ] Sukui Nage
-	[   ] Utsuri Goshi
-	[   ] O Guruma
-	[   ] Soto Makikomi
-	[   ] Uki Otoshi
+	[   ] 25 - Sumi Gaeshi
+	[   ] 26 - Tani Otoshi
+	[   ] 27 - Hane Makikomi
+	[   ] 28 - Sukui Nage
+	[   ] 29 - Utsuri Goshi
+	[   ] 30 - O Guruma
+	[   ] 31 - Soto Makikomi
+	[   ] 32 - Uki Otoshi
 
 [   ] Gokyo no Waza - Group 5
-	[   ] O Soto Guruma
-	[   ] Uki Waza
-	[   ] Yoko Wakare
-	[   ] Yoko Guruma
-	[   ] Ushiro Goshi
-	[   ] Ura Nage
-	[   ] Sumi Otoshi
-	[   ] Yoko Gake
+	[   ] 33 - O Soto Guruma
+	[   ] 34 - Uki Waza
+	[   ] 35 - Yoko Wakare
+	[   ] 36 - Yoko Guruma
+	[   ] 37 - Ushiro Goshi
+	[   ] 38 - Ura Nage
+	[   ] 39 - Sumi Otoshi
+	[   ] 40 - Yoko Gake
