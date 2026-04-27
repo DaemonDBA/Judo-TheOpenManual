@@ -1,0 +1,11 @@
+Katame Waza
+	[   ] 01 - Kesa Gatame
+	[   ] 02 - Kuzure Kesa Gatame
+	[   ] 03 - Ushiro Kesa Gatame
+	[   ] 04 - Kata Gatame
+	[   ] 05 - Uki Gatame
+	[   ] 06 - Yoko Shiho Gatame
+	[   ] 07 - Tate Shiho Gatame
+	[   ] 08 - Kami Shiho Gatame
+	[   ] 09 - Kuzure Kami Shiho Gatame
+	[   ] 10 - Ura Gatame
