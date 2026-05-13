@@ -33,10 +33,10 @@
 	[   ] 26 - Tani Otoshi
 	[   ] 27 - Hane Makikomi
 	[   ] 28 - Sukui Nage
-	[   ] 29 - Utsuri Goshi
+	[ X ] 29 - Utsuri Goshi
 	[   ] 30 - O Guruma
 	[   ] 31 - Soto Makikomi
-	[   ] 32 - Uki Otoshi
+	[ X ] 32 - Uki Otoshi
 
 [   ] Gokyo no Waza - Group 5
 	[   ] 33 - O Soto Guruma
