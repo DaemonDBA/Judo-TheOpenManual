@@ -5,7 +5,7 @@
 ---
 
 ## Technique Description
-> "Breakign your opponent's balance to his right side, you place your left foot outside his right foot and throw him to your left by dropping to your left side."
+> "Breaking your opponent's balance to his right side, you place your left foot outside his right foot and throw him to your left by dropping to your left side."
 
 ---
 
